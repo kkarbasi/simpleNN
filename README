@@ -1,0 +1,5 @@
+Name: Kaveh Karbasi
+SID : 25856225
+
+To run Neural Net with squared-mean run "NN_sqr_cost.py" (the dataset folder is set to './hw6/dataset/train.mat'
+To run Neural Net with cross-entropy run "NN_ce_cost.py"
